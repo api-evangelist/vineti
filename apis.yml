@@ -15,6 +15,7 @@ description: 'Vineti was an enterprise software company for cell and gene therap
   Johnson & Johnson name servers. This profile is retained as a historical record —
   there is no live API surface to catalog.'
 url: https://raw.githubusercontent.com/api-evangelist/vineti/refs/heads/main/apis.yml
+x-harvest-source-url: https://forgeglobal.com/vineti_stock/
 deliveryModel:
   model: unknown
   open_source: false
@@ -62,8 +63,6 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
-- type: Website
-  url: https://forgeglobal.com/vineti_stock/
 - type: GitHubOrganization
   url: https://github.com/vinetiworks
 x-enrichment:
