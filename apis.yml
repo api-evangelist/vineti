@@ -63,6 +63,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/johnson-and-johnson/
+  name: Johnson & Johnson
+  x-relationship: acquired
+  x-evidence: "The PTM software was acquired by Johnson & Johnson in 2023 to continue supporting its commercial therapy rollouts and clinical trials, and Vineti ceased to operate as an independent company: vineti."
 - type: GitHubOrganization
   url: https://github.com/vinetiworks
 x-enrichment:
